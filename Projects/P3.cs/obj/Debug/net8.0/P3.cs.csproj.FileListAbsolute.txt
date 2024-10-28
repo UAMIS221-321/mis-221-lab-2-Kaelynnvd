@@ -1,0 +1,15 @@
+C:\Users\kjvd2\mis-221-katelynnvd\Projects\P3.cs\bin\Debug\net8.0\P3.cs.exe
+C:\Users\kjvd2\mis-221-katelynnvd\Projects\P3.cs\bin\Debug\net8.0\P3.cs.deps.json
+C:\Users\kjvd2\mis-221-katelynnvd\Projects\P3.cs\bin\Debug\net8.0\P3.cs.runtimeconfig.json
+C:\Users\kjvd2\mis-221-katelynnvd\Projects\P3.cs\bin\Debug\net8.0\P3.cs.dll
+C:\Users\kjvd2\mis-221-katelynnvd\Projects\P3.cs\bin\Debug\net8.0\P3.cs.pdb
+C:\Users\kjvd2\mis-221-katelynnvd\Projects\P3.cs\obj\Debug\net8.0\P3.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kjvd2\mis-221-katelynnvd\Projects\P3.cs\obj\Debug\net8.0\P3.cs.AssemblyInfoInputs.cache
+C:\Users\kjvd2\mis-221-katelynnvd\Projects\P3.cs\obj\Debug\net8.0\P3.cs.AssemblyInfo.cs
+C:\Users\kjvd2\mis-221-katelynnvd\Projects\P3.cs\obj\Debug\net8.0\P3.cs.csproj.CoreCompileInputs.cache
+C:\Users\kjvd2\mis-221-katelynnvd\Projects\P3.cs\obj\Debug\net8.0\P3.cs.sourcelink.json
+C:\Users\kjvd2\mis-221-katelynnvd\Projects\P3.cs\obj\Debug\net8.0\P3.cs.dll
+C:\Users\kjvd2\mis-221-katelynnvd\Projects\P3.cs\obj\Debug\net8.0\refint\P3.cs.dll
+C:\Users\kjvd2\mis-221-katelynnvd\Projects\P3.cs\obj\Debug\net8.0\P3.cs.pdb
+C:\Users\kjvd2\mis-221-katelynnvd\Projects\P3.cs\obj\Debug\net8.0\P3.cs.genruntimeconfig.cache
+C:\Users\kjvd2\mis-221-katelynnvd\Projects\P3.cs\obj\Debug\net8.0\ref\P3.cs.dll
